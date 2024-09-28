@@ -4,7 +4,7 @@
 
 🔭 **Currently Working On:**
 - **Speech Diarization using Deep Learning and Reinforcement Learning**  
-  Developing a cutting-edge CNN-BiLSTM-RL framework aimed at enhancing speech diarization accuracy and efficiency. Leveraging my expertise in deep learning to explore novel approaches to speaker recognition and segmentation.
+  Developing a cutting-edge  rl framework aimed at enhancing speech diarization accuracy and efficiency. Leveraging my expertise in deep learning to explore novel approaches to speaker recognition and segmentation.
 
 🌱 **Currently Learning:**
 - Advanced reinforcement learning techniques to refine model decision-making.
