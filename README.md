@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kadamba Manikanta
+# 👋 Hi, I'm Kadamba Manikanta a Master student 
 
 ### 🌟 Deep Learning Engineer | Data Scientist | Mechanical Engineer
 
@@ -32,12 +32,6 @@
 ⚡ **Fun Fact:**
 - I’m passionate about merging the precision of mechanical engineering with the innovation of data science. When I’m not immersed in coding or research, you’ll find me traveling or picking up new languages to stay connected with the world.
 
-## 🌍 About Me
-
-With a strong foundation in Mechanical Engineering, I embarked on a journey that took me from understanding the mechanics of machines to decoding the mechanics of data. As a master's student specializing in Deep Learning and Data Science, I've honed my skills to bridge the gap between engineering and analytics. My projects often reflect a blend of these disciplines, where I apply analytical rigor and engineering precision to solve data-driven problems.
-
-### Career Objective
-I aim to leverage my expertise in Deep Learning and Data Science, coupled with my engineering background, to drive innovation and efficiency in industries such as finance, healthcare, and technology. My goal is to develop robust, scalable solutions that transform data into actionable insights, thereby contributing to the future of intelligent systems.
 
 ### Let's Connect
 Whether you're interested in collaboration, want to discuss the latest in AI and technology, or just want to exchange ideas, feel free to reach out!
