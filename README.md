@@ -1,22 +1,9 @@
-# 👋 Hi, I'm Kadamba Manikanta a Master student 
+# 👋 Hi, I'm Kadamba Manikanta a Master's student 
 
 ### 🌟 Deep Learning Engineer | Data Scientist | Mechanical Engineer
 
 🔭 **Currently Working On:**
-- **Speech Diarization using Deep Learning and Reinforcement Learning**  
-  Developing a cutting-edge  rl framework aimed at enhancing speech diarization accuracy and efficiency. Leveraging my expertise in deep learning to explore novel approaches to speaker recognition and segmentation.
-
-🌱 **Currently Learning:**
-- Advanced reinforcement learning techniques to refine model decision-making.
-- Multilingual capabilities in speech recognition to broaden model applicability across languages.
-
-👯 **Looking to Collaborate On:**
-- **Deep Learning and NLP Projects:** Focusing on speech recognition, natural language processing, and data-driven customer engagement solutions.
-- **Innovative Applications in Data Science:** Combining mechanical engineering principles with data science to solve complex, interdisciplinary problems.
-
-🤔 **Looking for Help With:**
-- **Emotion and Gender Detection:** Integrating real-time detection capabilities into speech recognition systems for enhanced user experience.
-- **Cloud Optimization:** Streamlining the deployment and efficiency of large-scale deep learning models on cloud platforms.
+- **Speech Diarization 
 
 💬 **Ask Me About:**
 - **My Journey from Mechanical Engineering to Data Science:** How I transitioned from engineering machinery to engineering data-driven insights.
