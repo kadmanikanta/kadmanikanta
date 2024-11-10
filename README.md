@@ -2,8 +2,6 @@
 
 ### 🌟 Deep Learning Engineer | Data Scientist | Mechanical Engineer
 
-🔭 **Currently Working On:**
-- **Speech Diarization 
 
 💬 **Ask Me About:**
 - **My Journey from Mechanical Engineering to Data Science:** How I transitioned from engineering machinery to engineering data-driven insights.
